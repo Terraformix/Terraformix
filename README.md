@@ -4,7 +4,7 @@
   <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
 </div>
 
-<h3 align="center">An aspiring DevOps & Cloud Engineer from South Africa. I am a Full stack software developer currently aiming to land a Junior role in the DevOps field.
+<h3 align="center">An aspiring DevOps & Cloud Engineer from South Africa. I am a Full stack software developer currently aiming to land a Junior role in the DevOps field.</h3>
 
 <p align="center" style="margin-top: 1rem">
   <a href="https://github.com/Terraformix">
@@ -18,7 +18,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Terraformix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 📫 My project portfolio is available at [https://momobytes.online/](https://momobytes.online/)  
@@ -74,14 +74,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Terraformix&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
-
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*

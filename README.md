@@ -53,6 +53,9 @@
 
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21~bgwhite.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/>
 
  
 </p>

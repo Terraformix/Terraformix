@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/Terraformix?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/mluqmaan-hoosain/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Luqmaan-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
 

@@ -6,7 +6,7 @@
 
 <h3 align="center">An aspiring DevOps & Cloud Engineer from South Africa. I am a Full stack software developer currently aiming to land a Junior role in the DevOps field.
 
-<p align="center">
+<p align="center" style="margin-top: 1rem">
   <a href="https://github.com/Terraformix">
     <img src="https://img.shields.io/github/followers/Terraformix?label=Follow&style=social" />
   </a>

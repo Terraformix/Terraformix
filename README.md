@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Muhammed Luqmaan</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/Terraformix/Terraformix/blob/main/1741711591000.jpg" alt="Terraformix Banner">
 </div>
 
 <h3 align="center">An aspiring DevOps & Cloud Engineer from South Africa. I am a Full stack software developer currently aiming to land a Junior role in the DevOps field.</h3>
